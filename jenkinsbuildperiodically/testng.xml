@@ -5,6 +5,5 @@
   <classes>
   <class name="testcases.LoginTest"></class>
   </classes>
-  
   </test> <!-- Test -->
 </suite> <!-- Suite -->
